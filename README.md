@@ -45,6 +45,9 @@ Before running the application, make sure you have the following dependencies in
 7. Open a web browser and enter `http://localhost:5000` as the URL.
 8. The Student Form web application should now be running, and you can start submitting and viewing student records.
 
+## Application Demo
+https://github.com/FutureRising007/Flask-Form-Application/assets/76934889/df2f9eca-2678-4255-9a1e-7e0738359a55
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
